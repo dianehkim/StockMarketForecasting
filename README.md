@@ -11,3 +11,9 @@ https://github.com/wpla/Khaidem.etal.2016_Analysis/blob/master/Random%20Forests%
 
 AutoML FLAML Documentation:
 https://github.com/microsoft/FLAML/blob/main/notebook/automl_classification.ipynb
+
+Parent Paper:
+https://arxiv.org/abs/1605.00003
+
+Parent Paper code:
+https://github.com/dianehkim/reproduce-stock-market-direction-random-forests
