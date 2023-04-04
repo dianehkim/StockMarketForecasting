@@ -13,7 +13,7 @@ AutoML FLAML Documentation:
 https://github.com/microsoft/FLAML/blob/main/notebook/automl_classification.ipynb
 
 Parent Paper:
-https://arxiv.org/abs/1605.00003
+https://paperswithcode.com/paper/predicting-the-direction-of-stock-market
 
 Parent Paper code:
 https://github.com/dianehkim/reproduce-stock-market-direction-random-forests
